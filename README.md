@@ -43,8 +43,6 @@ improving my skills according to the latest technologies.
 
 ## 🔥 Activity
 
-<!--START_SECTION:activity-->
-
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=vladimirvaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -52,7 +50,6 @@ improving my skills according to the latest technologies.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirvaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
-<!--END_SECTION:activity-->
 
 ## 📫 Let's Connect
 
