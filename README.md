@@ -1,4 +1,4 @@
-<div align="center">
+<div style="text-align: center;">
 
 # 👋 Hi, I'm Vladimir Vaca
 
@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-Full-stack developer with extensive experience (over 10 years) developing software from early stages, 
+I'm a Full-stack developer with extensive experience (over 10 years) developing software from early stages, 
 as well as maintaining, developing, and supporting existing software. I am constantly learning and 
 improving my skills according to the latest technologies.
 
@@ -30,22 +30,29 @@ improving my skills according to the latest technologies.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-## 🔥 Recent Activity
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-<!--START_SECTION:activity-->
+### Testing Frameworks
+![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/-Mockito-25A162?style=flat-square&logo=mockito&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E4C13?style=flat-square&logo=vitest&logoColor=white)
 
-<div align="center">
+## 🔥 Activity
+
+<div style="text-align: center;">
 
 ![](https://github-readme-stats.vercel.app/api?username=vladimirvaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vladimirvaca&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirvaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
-<!--END_SECTION:activity-->
 
 ## 📫 Let's Connect
 
-<div align="center">
+<div style="text-align: center;">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-vaca-5a08aba7)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramvlay@gmail.com)
@@ -55,7 +62,7 @@ improving my skills according to the latest technologies.
 
 ---
 
-<div align="center">
+<div style="text-align: center;">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vladimirvaca&color=blueviolet&style=flat-square)
 
