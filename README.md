@@ -4,15 +4,15 @@
 
 ### Full Stack Engineer
 
-*Trying to do great things with technology*
-
+*Trying to do great things with technology* 👽
 </div>
 
 ---
 
 ## 🚀 About Me
-
-I'm a passionate Full Stack Engineer who loves building scalable and efficient applications. I enjoy working across the entire stack, from crafting intuitive user interfaces to designing robust backend systems.
+Full-stack developer with extensive experience (over 10 years) developing software from early stages, 
+as well as maintaining, developing, and supporting existing software. I am constantly learning and 
+improving my skills according to the latest technologies.
 
 ## 💻 Tech Stack
 
@@ -30,36 +30,32 @@ I'm a passionate Full Stack Engineer who loves building scalable and efficient a
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladimirvaca&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirvaca&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=vladimirvaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vladimirvaca&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirvaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 <!--END_SECTION:activity-->
 
 ## 📫 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimirvaca)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-vaca-5a08aba7)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramvlay@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rwcoder.com)
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vladimirvaca&color=blueviolet&style=flat-square)
 
