@@ -63,11 +63,3 @@ improving my skills according to the latest technologies.
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rwcoder.com)
 
 </div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=vladimirvaca&color=blueviolet&style=flat-square)
-
-</div>
