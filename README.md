@@ -45,29 +45,29 @@ improving my skills according to the latest technologies.
 
 <!--START_SECTION:activity-->
 
-<p align="center">
+<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=vladimirvaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vladimirvaca&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirvaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</p>
+</div>
 <!--END_SECTION:activity-->
 
 ## 📫 Let's Connect
 
-<p align="center">
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-vaca-5a08aba7)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramvlay@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rwcoder.com)
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vladimirvaca&color=blueviolet&style=flat-square)
 
-</p>
+</div>
