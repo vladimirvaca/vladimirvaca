@@ -56,7 +56,8 @@ improving my skills according to the latest technologies.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-vaca-5a08aba7)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramvlay@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rwcoder.com)
+<a href="https://rwcoder.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Cover Letter-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Cover Letter" />
+</a>
 
 </div>
