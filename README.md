@@ -41,12 +41,8 @@ improving my skills according to the latest technologies.
 ![Mockito](https://img.shields.io/badge/-Mockito-25A162?style=flat-square&logo=mockito&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-6E4C13?style=flat-square&logo=vitest&logoColor=white)
 
-## 🔥 Activity
-
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=vladimirvaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vladimirvaca&theme=dark&hide_border=false)<br/>
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirvaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
@@ -56,8 +52,6 @@ improving my skills according to the latest technologies.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-vaca-5a08aba7)
-<a href="https://rwcoder.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Cover Letter-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Cover Letter" />
-</a>
+[![Cover Letter](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rwcoder.com){:target="_blank"}
 
 </div>
