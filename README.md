@@ -42,12 +42,6 @@ improving my skills according to the latest technologies.
 
 ---
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirvaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
-</div>
-
-
 ## 📫 Let's Connect
 
 
